@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://samueldi.github.io/event/example/</loc>
+    <loc>https://samueldi.github.io/talks/egu21/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://samueldi.github.io/event/</loc>
+    <loc>https://samueldi.github.io/talks/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samueldi.github.io/talks/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
