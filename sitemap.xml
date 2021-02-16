@@ -3,8 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://samueldi.github.io/talks/egu21/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://samueldi.github.io/people/people/</loc>
   </url>
   
   <url>
@@ -107,6 +106,14 @@
   
   <url>
     <loc>https://samueldi.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samueldi.github.io/talks/egu21/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samueldi.github.io/people/</loc>
   </url>
   
 </urlset>
